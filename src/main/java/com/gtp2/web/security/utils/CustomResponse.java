@@ -1,7 +1,10 @@
 package com.gtp2.web.security.utils;
 
+import com.gtp2.web.security.models.User;
 import lombok.Getter;
 import lombok.Setter;
+
+import java.util.List;
 
 @Setter
 @Getter
